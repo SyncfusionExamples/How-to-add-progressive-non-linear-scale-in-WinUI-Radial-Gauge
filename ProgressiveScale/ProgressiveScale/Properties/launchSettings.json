@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProgressiveScale (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ProgressiveScale (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,6 +1,8 @@
 # How to add progressive non-linear scale in WinUI Radial Gauge
 A quick-start project that helps you create to add progressive (non-linear) scale in the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
+Refer the KB from this [link](https://www.syncfusion.com/kb/13693/how-to-add-progressive-non-linear-scale-in-winui-radial-gauge-sfradialgauge)
+
 ## Syncfuion control(s)
 
 This project used the following Syncfusion controls:
